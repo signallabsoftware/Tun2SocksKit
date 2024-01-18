@@ -22,7 +22,7 @@ let package = Package(
     ),
     .binaryTarget(
         name: "HevSocks5Tunnel",
-        url: "https://github.com/signallabsoftware/Tun2SocksKit/releases/tag/Tun2SocksKit2.2.0",
+        url: "https://github.com/signallabsoftware/Tun2SocksKit/releases/download/Tun2SocksKit2.2.0/HevSocks5Tunnel.xcframework.zip",
         checksum: "ac4b05ac24cafe6a3e02cd9b5ce70bcda34dc15841db50430157cc1a1605162a"
     )
   ]
